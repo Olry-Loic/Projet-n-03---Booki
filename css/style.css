@@ -470,6 +470,19 @@ h6 {
     .section-afficher {
         margin-top: 20px;
     }
+
+    input[type='submit'] {
+        width: 110px;
+    }
+    input[type='text'] {
+      
+        width: 170px;
+    }
+    form {
+
+        width: 330px!important;
+
+    }
 }
 
 @media (max-width: 510px) {
@@ -488,6 +501,15 @@ h6 {
         flex-direction: column;
       
         gap: 10px;
+    }
+    input[type='submit'] {
+        width: 110px;
+    }
+    input[type='text'] {
+      
+        width: 170px;
+     
+
     }
 
 
