@@ -443,15 +443,7 @@ h6 {
         display: flex;
         width: 0; 
     }
-    input[type='submit'] {
-        width: 110px;
-    }
-    input[type='text'] {
-      
-        width: 170px;
-     
-
-    }
+    
     input[type='submit'] {
         width: 110px;
     }
