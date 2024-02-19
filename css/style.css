@@ -437,6 +437,11 @@ h6 {
         margin-top: 20px;
         height: auto; 
         flex-wrap: wrap;
+    }
+
+    form {
+        display: flex;
+        width: 0; 
         }
     
 }
@@ -473,6 +478,8 @@ h6 {
       
         gap: 10px;
     }
+
+
 
 
 }
